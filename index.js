@@ -33,7 +33,7 @@ parseInt('n', 10);
   return n;
 }
 
-function preservedDecimal(n){
+function preserveDecimal(n){
   parseFloat(n);
   return n;
 }
